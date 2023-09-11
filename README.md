@@ -1,10 +1,6 @@
 # Test
 This is the test repository
-chintu
-bittu
-bubblu
+where we can do all the changes here,
+so it's better use this application.
+According to my opinion
 
-chapu
-chipu
-chorigi
-charnethu
